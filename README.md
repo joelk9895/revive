@@ -1,17 +1,6 @@
-# carcc
+# revive
 
-A new Flutter project.
+Revive is an app that calculates your carbon footprint and helps to offset your footprint by donating to organization that works for mitigating carbon dioxide. This was built for a hackathon at Model Engineering College.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We use flutter to build our app, so first clone this repository and open it using VS Code or Android studio and click run to run it!
 # revive
